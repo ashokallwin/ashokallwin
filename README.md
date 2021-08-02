@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashokallwin
-- 👀 I’m interested in Ethical hacking and bug bounty
-- 🌱 I’m currently learning Information Science and Engineering in kct
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently pursuing an Information Science and Engineering in kct
 - 💞️ I’m looking to collaborate on ...
 - 📫 ashokallwin143@gmail.com
 
