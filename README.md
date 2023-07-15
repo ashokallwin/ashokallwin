@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ashokallwin
-- 👀 I’m interested in cyber security
+- 👋 Hi, I’m @ashok
 - 🌱 I’m currently pursuing an Information Science and Engineering in kct
 - 💞️ I’m looking to collaborate on ...
 - 📫 ashokallwin143@gmail.com
